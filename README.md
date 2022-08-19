@@ -1,16 +1,12 @@
-### Hi there 👋
+# Hi! 👋
+My name is Haze Nielsen
 
-<!--
-**hazenielsen/hazenielsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like to 
+- read📚
+- act🎭
+- listen to music🎶
+- eat sushi🍣
+- watch heartstopper🍂
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I want to learn how to code
+![book characters](https://registerforum.org/wp-content/uploads/2022/05/HeartstopperKaliJohnston-900x675.jpg)
